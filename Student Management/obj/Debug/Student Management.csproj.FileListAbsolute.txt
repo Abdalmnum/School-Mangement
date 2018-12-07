@@ -1,0 +1,237 @@
+D:\Second year\data__structure\Codes\Student Management\Student Management\bin\Debug\Student Management.exe.config
+D:\Second year\data__structure\Codes\Student Management\Student Management\bin\Debug\Student Management.exe
+D:\Second year\data__structure\Codes\Student Management\Student Management\bin\Debug\Student Management.pdb
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.About_Me.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Delete.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Form1.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.form3.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Form4.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Operation.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.teacher.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Update.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student Management.exe
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student Management.pdb
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Insert.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Login.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Insert_student.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.search_Student.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+D:\Second year\data__structure\Codes\Student Management\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\bin\Debug\Student Management.exe.config
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student Management.exe
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.About_Me.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Form1.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Login.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Form4.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Insert_student.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.search_Student.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.teacher.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Update.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+C:\Users\ABDO\Downloads\Student Management\Student Management\bin\Debug\Student Management.exe
+C:\Users\ABDO\Downloads\Student Management\Student Management\bin\Debug\Student Management.pdb
+C:\Users\ABDO\Downloads\Student Management\Student Management\obj\Debug\Student Management.pdb
+F:\محمد\4Student Management\Student Management\bin\Debug\Student Management.exe.config
+F:\محمد\4Student Management\Student Management\obj\Debug\Student Management.exe
+F:\محمد\4Student Management\Student Management\obj\Debug\Student Management.pdb
+F:\محمد\4Student Management\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.About_Me.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Form1.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Login.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Form4.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Insert_student.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.search_Student.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.teacher.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Update.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+F:\محمد\4Student Management\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+F:\محمد\4Student Management\Student Management\bin\Debug\Student Management.exe
+F:\محمد\4Student Management\Student Management\bin\Debug\Student Management.pdb
+F:\محمد\mohamed\Student Management\bin\Debug\Student Management.exe.config
+F:\محمد\mohamed\Student Management\obj\Debug\Student Management.exe
+F:\محمد\mohamed\Student Management\obj\Debug\Student Management.pdb
+F:\محمد\mohamed\Student Management\bin\Debug\Student Management.exe
+F:\محمد\mohamed\Student Management\bin\Debug\Student Management.pdb
+F:\محمد\mohamed\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.About_Me.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Form1.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Login.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Insert_student.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.search_Student.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.teacher.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Update.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+F:\محمد\mohamed\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+F:\محمد\student managment\Student Management\bin\Debug\Student Management.exe.config
+F:\محمد\student managment\Student Management\obj\Debug\Student Management.exe
+F:\محمد\student managment\Student Management\obj\Debug\Student Management.pdb
+F:\محمد\student managment\Student Management\bin\Debug\Student Management.exe
+F:\محمد\student managment\Student Management\bin\Debug\Student Management.pdb
+F:\محمد\student managment\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.About_Me.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Form1.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Login.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Insert_student.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.search_Student.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.teacher.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Update.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.courses_in_our_school.resources
+F:\محمد\student managment\Student Management\obj\Debug\Student_Management.courses.resources
+F:\محمد\student managment7\Student Management\bin\Debug\Student Management.exe.config
+F:\محمد\student managment7\Student Management\obj\Debug\Student Management.exe
+F:\محمد\student managment7\Student Management\obj\Debug\Student Management.pdb
+D:\student managment7\Student Management\bin\Debug\Student Management.exe.config
+D:\student managment7\Student Management\obj\Debug\Student Management.exe
+D:\student managment7\Student Management\obj\Debug\Student Management.pdb
+D:\student managment7\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+D:\student managment7\Student Management\obj\Debug\Student_Management.About_Me.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.courses_in_our_school.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.courses.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Form1.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Login.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Insert_student.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.search_Student.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.teacher.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Update.resources
+D:\student managment7\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+D:\student managment7\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+H:\Student Managment\Student Management\bin\Debug\Student Management.exe.config
+H:\Student Managment\Student Management\obj\Debug\Student Management.exe
+H:\Student Managment\Student Management\obj\Debug\Student Management.pdb
+H:\Student Managment\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+H:\Student Managment\Student Management\obj\Debug\Student_Management.About_Me.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.courses_in_our_school.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.courses.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Form1.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Login.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Insert_student.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.search_Student.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.teacher.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Update.resources
+H:\Student Managment\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+H:\Student Managment\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+H:\Student Managment\Student Management\bin\Debug\Student Management.exe
+H:\Student Managment\Student Management\bin\Debug\Student Management.pdb
+H:\Student Managment\Student Management\obj\Debug\Student_Management.about_oroject.resources
+C:\Users\Administrator\Desktop\Student Managment\Student Management\bin\Debug\Student Management.exe.config
+C:\Users\Administrator\Desktop\Student Managment\Student Management\obj\Debug\Student Management.exe
+C:\Users\Administrator\Desktop\Student Managment\Student Management\obj\Debug\Student Management.pdb
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\bin\Debug\Student Management.exe.config
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student Management.exe
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student Management.pdb
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\bin\Debug\Student Management.exe
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\bin\Debug\Student Management.pdb
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.About_Me.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.about_Project.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.courses_in_our_school.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.courses.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Form1.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Login.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Insert_student.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.search_Student.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.teacher.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Update.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+F:\مشاريع حاسبات ومعلومات\مشروع تانية حاسبات الترم الاول\1Student Managment\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+H:\1Student Managment\Student Management\bin\Debug\Student Management.exe.config
+H:\1Student Managment\Student Management\obj\Debug\Student Management.exe
+H:\1Student Managment\Student Management\obj\Debug\Student Management.pdb
+H:\1Student Managment\Student Management\bin\Debug\Student Management.exe
+H:\1Student Managment\Student Management\bin\Debug\Student Management.pdb
+H:\1Student Managment\Student Management\obj\Debug\Student Management.csprojResolveAssemblyReference.cache
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.About_Me.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.about_Project.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.courses_in_our_school.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.courses.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Delete_Student.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Delete_Teacher.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Form1.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Insert_Teacher.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Login.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Manager_choose.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Operation_Student.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Operation_teacher.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Properties.Resources.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Insert_student.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.search_Student.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Search_Teacher.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.teacher.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Update.resources
+H:\1Student Managment\Student Management\obj\Debug\Student_Management.Update_Teacher.resources
+H:\1Student Managment\Student Management\obj\Debug\Student Management.csproj.GenerateResource.Cache
+D:\1Student Managment\Student Management\bin\Debug\Student Management.exe.config
+D:\1Student Managment\Student Management\obj\Debug\Student Management.exe
+D:\1Student Managment\Student Management\obj\Debug\Student Management.pdb
+D:\Study\project\1Student Managment\Student Management\bin\Debug\Student Management.exe.config
+D:\Study\project\1Student Managment\Student Management\obj\Debug\Student Management.exe
+D:\Study\project\1Student Managment\Student Management\obj\Debug\Student Management.pdb
